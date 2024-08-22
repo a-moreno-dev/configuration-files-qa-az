@@ -1,0 +1,39 @@
+Cloning into 'C:\Users\anton\PycharmProjects\ham\ham-v1.4\configuration-files-qa-az'...
+2024-08-22 08:53:52,001 : certification_config_file_creator.py : INFO ::: Setting default branch main....
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+2024-08-22 08:53:52,026 : certification_config_file_creator.py : INFO ::: Updating from remote repository
+From github.com:a-moreno-dev/configuration-files-qa-az
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Already on 'main'
+Your branch is up to date with 'origin/main'.
+Switched to a new branch 'ms-depositosaplazo-neg-re-v6-0'
+remote: 
+remote: Create a pull request for 'ms-depositosaplazo-neg-re-v6-0' on GitHub by visiting:        
+remote:      https://github.com/a-moreno-dev/configuration-files-qa-az/pull/new/ms-depositosaplazo-neg-re-v6-0        
+remote: 
+To github.com:a-moreno-dev/configuration-files-qa-az.git
+ * [new branch]      ms-depositosaplazo-neg-re-v6-0 -> ms-depositosaplazo-neg-re-v6-0
+2024-08-22 08:53:55,207 : certification_config_file_creator.py : INFO ::: Branch 'ms-depositosaplazo-neg-re-v6-0' was created from 'main'
+Your branch is up to date with 'origin/main'.
+Switched to branch 'main'
+From github.com:a-moreno-dev/configuration-files-qa-az
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to branch 'ms-depositosaplazo-neg-re-v6-0'
+From github.com:a-moreno-dev/configuration-files-qa-az
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+2024-08-22 08:53:58,172 : certification_config_file_creator.py : INFO ::: Local repository [C:\Users\anton\PycharmProjects\ham\ham-v1.4\configuration-files-qa-az] was updated
+2024-08-22 08:53:58,172 : certification_config_file_creator.py : INFO ::: Creating certification config file [ms-depositosaplazo-neg-re-v6-0-qa.yml]from parent file ms-depositosaplazo-neg-re-v5-4-qa.yml
+2024-08-22 08:53:58,172 : certification_config_file_creator.py : INFO ::: The certification config file [ms-depositosaplazo-neg-re-v6-0-qa.yml] was created
+2024-08-22 08:53:58,172 : certification_config_file_creator.py : INFO ::: Staging changes in the local repository
+2024-08-22 08:53:58,193 : certification_config_file_creator.py : INFO ::: Committing changes to the local certification config file repository
+[ms-depositosaplazo-neg-re-v6-0 24bd3fd] Se crea rama para config-file de migracion
+ 1 file changed, 1 insertion(+)
+ create mode 100644 ms-depositosaplazo-neg-re-v6-0-qa.yml
+2024-08-22 08:53:58,232 : certification_config_file_creator.py : INFO ::: Pushing changes to the remote certification config file repository
+Everything up-to-date
+2024-08-22 08:53:59,559 : certification_config_file_creator.py : INFO ::: Successfully pushed changes to the remote repository
+========== PROCESO DE MIGRACIÓN AUTOMÁTICO DE PROYECTO TERMINADO ==========
